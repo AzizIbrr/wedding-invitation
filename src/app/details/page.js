@@ -50,7 +50,7 @@ export default function WeddingPage() {
           </div>
 
           {/* Message */}
-          <p className="mx-auto max-w-2xl font-montserrat text-sm italic text-gray-100 md:text-base lg:text-lg">
+          <p className="mx-auto max-w-2xl font-montserrat text-sm italic text-gray-800 md:text-base lg:text-lg">
             Together with joyful hearts and the grace of God, we joyfully
             announce the upcoming of our marriage.
           </p>
